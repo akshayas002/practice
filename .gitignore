@@ -58,3 +58,5 @@ htmlcov/
 # 🔹 Local database files (optional)
 *.sqlite3
 db.sqlite
+
+*.csv
